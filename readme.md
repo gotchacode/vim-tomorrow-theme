@@ -1,11 +1,11 @@
 # Vim Tomorrow Theme
 
-This is a vim only project for the awesome [Tomorrow theme](https://github.com/chriskempson/tomorrow-theme). I didn't found any Vim specific repo which eases the install using Bundles, NeoBundles etc.
+This is a vim only project for the awesome [Tomorrow theme](https://github.com/chriskempson/tomorrow-theme). I couldn't find any Vim specific repo which eases the install using Bundles, NeoBundles etc.
 
 
 ## Installation:
 
-In order to install the theme, add the lines on your .vimrc:
+In order to install the theme, add the lines on your `.vimrc`:
 
 ```vimL
 " Add bundle for Tomorrow theme
@@ -17,7 +17,7 @@ and then do this:
 vim +BundleInstall +qall
 ```
 
-It will install Tomorrow theme colors in your vim configuration.Now, add the colorscheme to your .vimrc and you are good to go:
+It will install Tomorrow theme colors in your vim configuration. Now, add the colorscheme to your `.vimrc` and you are good to go:
 
 ```vimL
 set background=light
