@@ -23,9 +23,9 @@ This will install Tomorrow theme colors in your vim configuration:
 Now, add the colorscheme to your .vimrc and you are good to go:
 
 ```vimL
-    set background=light
-    colorscheme Tomorrow  
-    let g:colors_name="Tomorrow"
+set background=light
+colorscheme Tomorrow  
+let g:colors_name="Tomorrow"
 ```
 
 ## Credits:
